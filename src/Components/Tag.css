@@ -1,0 +1,18 @@
+.tag {
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #f9f9f9;
+  border: 1px solid #7f8488;
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  padding: 2px 10px;
+  margin: 5px 8px 9px 0px;
+  cursor: pointer;
+  transition: all 0.1s ease;
+}
+
+.tag:hover {
+  box-shadow: 1px 1px 8px #a0caeb;
+  transform: translateY(-1px);
+}
